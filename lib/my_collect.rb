@@ -1,2 +1,1 @@
-my_collect(collection) { || } 
-
+my_collect(collection) { |object| }
