@@ -6,5 +6,5 @@ my_collect(collection)
     data
     i += 1
 
-  end
+
 end
